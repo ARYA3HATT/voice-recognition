@@ -38,22 +38,26 @@ A machine learning-based binary voice classification system that can distinguish
 - **Balanced Classes**: Model appears to handle both voice types well
 
 
-## PROJECT STRUCTURE 
+Project Structure
 voice-recognition/
 │
-├── binary_classification.py    # Main classification script
-├── requirements.txt           # Python dependencies
+├── binary_classification.py  # Main classification script
+├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
 │
-└── dataset_5s/              # Audio dataset directory
-    ├── singer1/             # First singer's audio files
+└── dataset_5s/               # Audio dataset directory
+    │
+    ├── singer1/              # First singer's audio files
     │   ├── song1.wav
     │   ├── song2.wav
     │   └── ...
-    └── singer2/             # Second singer's audio files
+    │
+    └── singer2/              # Second singer's audio files
         ├── song1.wav
         ├── song2.wav
         └── ...
+
+
 
 
 
