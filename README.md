@@ -16,7 +16,7 @@ A machine learning-based binary voice classification system that can distinguish
 ### Overall Accuracy
 | Metric | Value | Percentage |
 |--------|-------|------------|
-| **Accuracy** | 0.93 | 92.9% |
+| **Accuracy** | 0.98 | 97.6% |
 
 
 ## Sample Predictions Analysis
@@ -33,7 +33,7 @@ A machine learning-based binary voice classification system that can distinguish
 ## Model Performance Summary
 
 ### Strengths
-- **High Accuracy**: 92.9% accuracy indicates strong overall performance
+- **High Accuracy**: 97.6% accuracy indicates strong overall performance
 - **Consistent Predictions**: Sample predictions show correct classification
 - **Balanced Classes**: Model appears to handle both voice types well
 
